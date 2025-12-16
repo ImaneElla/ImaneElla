@@ -6,10 +6,9 @@
 
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=ImaneElla&label=Profile%20views&color=blue&style=flat" 
-    alt="Profile views" />
+    src="https://img.shields.io/badge/Profile%20Views-127-blue?style=flat" 
+    alt="Profile Views" />
 </p>
-
 
 ---
 
