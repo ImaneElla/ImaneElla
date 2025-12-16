@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=blue&style=flat" />
-
+  <img 
+    src="https://komarev.com/ghpvc/?username=ImaneElla&label=Profile%20views&color=blue&style=flat" 
+    alt="Profile views" />
 </p>
+
 
 ---
 
