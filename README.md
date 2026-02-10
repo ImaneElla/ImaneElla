@@ -12,7 +12,6 @@
 
 ---
 
-## 🧠 Skills
 
 <!-- Technical Skills -->
 
@@ -20,16 +19,16 @@
 
 <p align="center">
 
-<b>💻 Programming Languages</b><br>
+<b>💻 Programming Languages</b><br><br><br>
 <img src="https://skillicons.dev/icons?i=java,python,js,php,c" /><br><br>
 
-<b>🌐 Web Development</b><br>
+<b>🌐 Web Development</b><br><br><br>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" /><br><br>
 
-<b>🗄️ Databases</b><br>
+<b>🗄️ Databases</b><br><br><br>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br><br>
 
-<b>⚙️ Tools & Platforms</b><br>
+<b>⚙️ Tools & Platforms</b><br><br><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </p>
