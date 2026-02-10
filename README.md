@@ -40,11 +40,11 @@
 <div align="center">
 
 ## 💎 About Me
-- 🎓 Software Development Student  
-- 💻 Passionate about **Web & Programming**
-- 🌱 Currently learning **React, Java & Python**
-- 🎯 Goal: **Professional Full-Stack Developer**
-- ✨ I love clean UI & structured code
+🎓 Software Development Student  
+💻 Passionate about **Web & Programming**
+🌱 Currently learning **React, Java & Python**
+🎯 Goal: **Professional Full-Stack Developer**
+✨ I love clean UI & structured code
 
 
 ---
