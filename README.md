@@ -10,7 +10,6 @@
     alt="Profile Views" />
 </p>
 
-
 ---
 
 ## 🧠 Skills
