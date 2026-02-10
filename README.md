@@ -19,15 +19,15 @@
 
 <p align="center">
 
-<b>💻 Programming Languages</b><br><br><br>
+<b>💻 Programming Languages</b><br>
 <img src="https://skillicons.dev/icons?i=java,python,js,php,c" /><br>
-<b>🌐 Web Development</b><br><br><br>
+<b>🌐 Web Development</b><br>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" /><br>
 
-<b>🗄️ Databases</b><br><br><br>
+<b>🗄️ Databases</b><br>
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br>
 
-<b>⚙️ Tools & Platforms</b><br><br><br>
+<b>⚙️ Tools & Platforms</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </p>
