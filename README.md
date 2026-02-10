@@ -14,23 +14,27 @@
 
 ## 🧠 Skills
 
-### 🌐 Front-End
+<!-- Technical Skills -->
+
+<h2 align="center">🛠️ Technical Skills</h2>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-  
-### ⚙️ Programming Languages
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+
+<b>💻 Programming Languages</b><br>
+<img src="https://skillicons.dev/icons?i=java,python,js,php,c" /><br><br>
+
+<b>🌐 Web Development</b><br>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" /><br><br>
+
+<b>🗄️ Databases</b><br>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br><br>
+
+<b>⚙️ Tools & Platforms</b><br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
 </p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
 
 ---
