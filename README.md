@@ -20,16 +20,16 @@
 <div align="center">
 
   <b>💻 Programming Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=java,python,js,php,c" /><br><br>
+  <img src="https://skillicons.dev/icons?i=java,python,js,php,c" /><br>
 
   <b>🌐 Web Development</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" /><br><br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" /><br>
 
   <b>🗄️ Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br>
 
   <b>⚙️ Tools & Platforms</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
 
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
