@@ -37,6 +37,7 @@
 
 
 ---
+<div align="center">
 
 ## 💎 About Me
 - 🎓 Software Development Student  
@@ -73,3 +74,4 @@
 ---
 
 ✨ *Always learning. Always building. Always improving.*
+</div>
