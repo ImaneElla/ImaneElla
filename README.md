@@ -10,14 +10,6 @@
     alt="Profile Views" />
 </p>
 
----
-
-## 💎 About Me
-- 🎓 Software Development Student  
-- 💻 Passionate about **Web & Programming**
-- 🌱 Currently learning **React, Java & Python**
-- 🎯 Goal: **Professional Full-Stack Developer**
-- ✨ I love clean UI & structured code
 
 ---
 
@@ -40,10 +32,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
 </p>
+---
 
+## 💎 About Me
+- 🎓 Software Development Student  
+- 💻 Passionate about **Web & Programming**
+- 🌱 Currently learning **React, Java & Python**
+- 🎯 Goal: **Professional Full-Stack Developer**
+- ✨ I love clean UI & structured code
 
-
- 
 
 ---
 
