@@ -20,7 +20,7 @@
 <div align="center">
 
   <b>💻 Programming Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=java,python,js,php,c" /><br>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c" /><br>
 
   <b>🌐 Web Development</b><br>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" /><br>
