@@ -39,7 +39,6 @@
 🌱 Currently learning **React, Java & Python** <br>
 🎯 Goal: **Professional Full-Stack Developer** <br>
 ✨ I love clean UI & structured code <br>
-💗 Turning coffee into code ☕  
 
 ---
 
