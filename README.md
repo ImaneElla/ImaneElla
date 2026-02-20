@@ -9,14 +9,15 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=180&section=header&text=Hi%20I'm%20Imane%20💗&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=F8BBD0&height=180&section=header"/>
+
 </p>
 
 ---
 
 <!-- Technical Skills -->
 
-<h2 align="center">🛠️ Technical Skills 💗</h2>
+<h2 align="center">🛠️ Technical Skills </h2>
 
 <div align="center">
 <br>
@@ -24,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br>
+   <img src="https://skillicons.dev/icons?i=figma" /><br>
 <br>
 
 </div>
@@ -42,7 +44,7 @@
 
 ---
 
-## 🛠 Tools 💕
+## 🛠 Tools 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=ff69b4"/>
   <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
@@ -51,7 +53,7 @@
 
 ---
 
-## 🌍 Contact Me 💌
+## 🌍 Contact Me 
 <p>
   <a href="https://github.com/EmanElla">
     <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=white"/>
@@ -66,9 +68,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=160&section=footer&text=Thanks%20for%20visiting%20💗&fontColor=ffffff&fontSize=24"/>
 
-
-✨ *Always learning. Always building. Always improving.* 💗
+✨ *Always learning. Always building. Always improving.* 
 
 </div>
