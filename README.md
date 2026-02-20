@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=F8BBD0&height=180&section=header"/>
 
 </p>
 
