@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=180&section=header&text=Hi%20I'm%20Imane%20💗&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
 </p>
 
 ---
@@ -19,16 +19,12 @@
 <h2 align="center">🛠️ Technical Skills 💗</h2>
 
 <div align="center">
-
-  <b>💻 Programming Languages</b><br>
+<br>
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c" /><br>
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" /><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br>
-
-  <br><br>
-
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
+<br>
 
 </div>
 
@@ -70,7 +66,8 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=160&section=footer&text=Thanks%20for%20visiting%20💗&fontColor=ffffff&fontSize=24"/>
+
 
 ✨ *Always learning. Always building. Always improving.* 💗
 
