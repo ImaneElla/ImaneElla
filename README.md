@@ -1,16 +1,17 @@
-<h1 align="center">Hi 💙 , I'm Imane</h1>
+<h1 align="center">Hi 💗 , I'm Imane</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Development+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&center=true&vCenter=true&width=500&color=FF69B4&lines=Software+Developer;Web+Development+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img 
-    src="https://img.shields.io/badge/Profile%20Views-127-blue?style=flat" 
+    src="https://img.shields.io/badge/Profile%20Views-127-ff69b4?style=flat" 
     alt="Profile Views" />
 </p>
 
 ---
+
 
 
 <!-- Technical Skills -->
