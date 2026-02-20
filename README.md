@@ -21,22 +21,10 @@
 <div align="center">
 
   <b>💻 Programming Languages</b><br>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c" />
-
-  <br><br>
-
-  <b>🌐 Web Development</b><br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" />
-
-  <br><br>
-
-  <b>🗄️ Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-
-  <br><br>
-
-  <b>⚙️ Tools & Platforms</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" /><br>
 
   <br><br>
 
