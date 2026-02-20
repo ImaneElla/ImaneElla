@@ -33,7 +33,7 @@
 
 <div align="center">
 
-## 💎 About Me 🌸
+## 🌸 About Me 
 🎓 Software Development Student <br>
 💻 Passionate about **Web & Programming** <br>
 🌱 Currently learning **React, Java & Python** <br>
