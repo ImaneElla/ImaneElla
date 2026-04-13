@@ -65,9 +65,9 @@ I am a Full-Stack Developer passionate about creating elegant, modern and user-f
 
 <div align="center">
 <br>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,php,c,spring,laravel" /><br>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" /><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,php,laravel" /><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,express" /><br>
+  <img src="https://skillicons.dev/icons?i=git,firebase,vscode,docker" /><br>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" /><br>
    <img src="https://skillicons.dev/icons?i=figma,ai" /><br>
   <img src="https://skillicons.dev/icons?i=vercel" /><br>
