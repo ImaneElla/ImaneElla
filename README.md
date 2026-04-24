@@ -65,13 +65,12 @@ I am a Full-Stack Developer passionate about creating elegant, modern and user-f
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ImaneElla&hide_border=true&ring=f472b6&fire=f472b6&currStreakLabel=ec4899&currStreakNum=ffffff&sideLabels=f9a8d4&sideNums=ffffff&dates=f9a8d4&background=0002&stroke=f472b6" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ImaneElla&hide_border=true&ring=f472b6&fire=f472b6&currStreakLabel=ec4899&currStreakNum=ffffff&sideLabels=f9a8d4&sideNums=ffffff&dates=f9a8d4&background=000000&stroke=f472b6" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImaneElla&bg_color=0002&color=f9a8d4&line=f472b6&point=ec4899&area=true&hide_border=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ImaneElla&bg_color=000000&color=f9a8d4&line=f472b6&point=ec4899&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
-<br/>
 
 
 ---
