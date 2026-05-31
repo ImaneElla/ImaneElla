@@ -102,12 +102,14 @@ I am a Full-Stack Developer passionate about creating elegant, modern and user-f
 <bold>"Great development is built with clean code, thoughtful design, and continuous learning."</bold>
 </div>
 <br/>
-<img alt="Coding Girl" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>  
+<!--<img alt="Coding Girl" width="280" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/> -->
+<img alt="Coding Girl" width="480" src="pic.png"/>  
+
    <br/>
       <br/>
 
    
-| 🌸 Principle | 💡 How I Apply It |
+|  Principle |  How I Apply It |
 |:---:|:---|
 |  Clean Code | Readable, maintainable & SOLID principles |
 |  User First | Design for humans, not machines |
