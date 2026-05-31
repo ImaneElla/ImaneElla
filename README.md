@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./ImaneBanner.png" alt="ImaneBanner" width="100%"/>
+  <img src="./ImaneBanner.PNG" alt="ImaneBanner" width="100%"/>
 <br/>
   
   <p align="center"><br/>
