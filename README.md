@@ -1,7 +1,5 @@
 <div align="center">
-
   <h1>I am Imane</h1>
-
   <p align="center"><br/>
   <img src="https://readme-typing-svg.demolab.com?font=PT+Serif&weight=700&size=32&duration=2800&pause=700&center=true&vCenter=true&width=650&color=FF0000&background=FFF0F500&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Java+Enthusiast;" alt="Typing SVG"/>
   </p>
@@ -36,6 +34,8 @@
 
 ##  Key Full Stack Projects
 
+</div>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -62,34 +62,38 @@
 <div align="center">
 <br>
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,php,laravel" /><br>
-  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,express" /><br>
-  <img src="https://skillicons.dev/icons?i=git,firebase,vscode,docker" /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" /><br>
-  <img src="https://skillicons.dev/icons?i=figma,ai" /><br>
-  <img src="https://skillicons.dev/icons?i=vercel" /><br>
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,express,angular" /><br>
+  <img src="https://skillicons.dev/icons?i=git,firebase,vscode,docker,vercel,ai" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,mysql,postgresql,mongodb,postman,bun" /><br>
 <br>
 </div>
 
 ---
 
-##  Technical Proficiency
+<div align="center">
 
-<p align="center" width="80%">
-
-| Category | Skills |
-|---|---|
-| ☕ **Backend** | Java / Spring Boot |
-| ⚛️ **Frontend** | React / Next.js |
-| 🟢 **Runtime** | Node.js / Express |
-| 🗄️ **Databases** | PostgreSQL / MySQL / MongoDB |
-| 🎨 **Design** | Figma |
-| 🔌 **APIs** | REST APIs |
-| ♾️ **DevOps** | Docker / CI/CD |
+## Technical Proficiency
 
 
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=java" width="22"/>&nbsp;&nbsp;Java / Spring Boot</td>
+    <td><img src="https://skillicons.dev/icons?i=react" width="22"/>&nbsp;&nbsp;React / Next.js</td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs" width="22"/>&nbsp;&nbsp;Node.js / Express</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=postgresql" width="22"/>&nbsp;&nbsp;PostgreSQL</td>
+    <td><img src="https://skillicons.dev/icons?i=figma" width="22"/>&nbsp;&nbsp;Figma</td>
+    <td><img src="https://skillicons.dev/icons?i=postman" width="22"/>&nbsp;&nbsp;REST APIs</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=mongodb" width="22"/>&nbsp;&nbsp;MongoDB</td>
+    <td><img src="https://skillicons.dev/icons?i=docker" width="22"/>&nbsp;&nbsp;DevOps</td>
+    <td><img src="https://skillicons.dev/icons?i=ts" width="22"/>&nbsp;&nbsp;TypeScript</td>
+  </tr>
+</table>
 
 ---
-
 
 <h2 align="center"> Tools </h2>
 <div align="center">
@@ -108,6 +112,6 @@
 
 <div align="center">
 
- *Always learning. Always building. Always improving* 
+✨ *Always learning. Always building. Always improving* ✨
 
 </div>
