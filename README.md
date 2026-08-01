@@ -34,7 +34,7 @@
 
 <div align="center">
 
-## 🚀 Key Full Stack Projects
+##  Key Full Stack Projects
 
 <table>
   <tr>
@@ -57,7 +57,7 @@
 
 ---
 
-<h2 align="center">✨ Tech Stack ✨</h2>
+<h2 align="center"> Tech Stack </h2>
 
 <div align="center">
 <br>
@@ -72,7 +72,7 @@
 
 ---
 
-## 🛠️ Technical Proficiency
+##  Technical Proficiency
 
 <p align="center" width="80%">
 
@@ -91,7 +91,7 @@
 ---
 
 
-<h2 align="center">✨ Tools ✨</h2>
+<h2 align="center"> Tools </h2>
 <div align="center">
 
   <img src="https://img.shields.io/badge/Git-DC143C?style=for-the-badge&logo=git&logoColor=white"/>
@@ -108,6 +108,6 @@
 
 <div align="center">
 
-✨ *Always learning. Always building. Always improving* ✨
+ *Always learning. Always building. Always improving* 
 
 </div>
