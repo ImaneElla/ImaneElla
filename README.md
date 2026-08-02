@@ -1,7 +1,6 @@
-<div align="center">
-  <h1>I am Imane</h1>
+<h1 align="center"> Imane EL Laouzi</h1>
   <p align="center"><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=PT+Serif&weight=700&size=32&duration=2800&pause=700&center=true&vCenter=true&width=650&color=FF0000&background=FFF0F500&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Java+Enthusiast;" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=PT+Serif&weight=700&size=32&duration=2800&pause=700&center=true&vCenter=true&width=650&color=FF0000&background=FFF0F500&lines=Software+Engineer+Student;Java+Backend+Developer;UI%2FUX+Enthusiast;" alt="Typing SVG"/>
   </p>
 
   <p align="center">
@@ -26,7 +25,6 @@
 
 </div>
 
-<br/>
 
 ---
 
@@ -61,16 +59,15 @@
 
 <div align="center">
 <br>
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,php,laravel" /><br>
-  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,express,angular" /><br>
-  <img src="https://skillicons.dev/icons?i=git,firebase,vscode,docker,vercel,ai" /><br>
-  <img src="https://skillicons.dev/icons?i=figma,mysql,postgresql,mongodb,postman,bun" /><br>
+  <img src="https://skillicons.dev/icons?i=java,spring,nextjs,react,ts,tailwind,nodejs" /><br>
+  <img src="https://skillicons.dev/icons?i=git,firebase,vercel,docker,postman,bun,linux" /><br>
+  <img src="https://skillicons.dev/icons?i=postgresql,vscode,mysql,ai,figma,github,aws" /><br>
 <br>
 </div>
 
 ---
 
-<div align="center">
+<!--<div align="center">
 
 ## Technical Proficiency
 
@@ -91,9 +88,8 @@
     <td><img src="https://skillicons.dev/icons?i=docker" width="22"/>&nbsp;&nbsp;DevOps</td>
     <td><img src="https://skillicons.dev/icons?i=ts" width="22"/>&nbsp;&nbsp;TypeScript</td>
   </tr>
-</table>
+</table>-->
 
----
 
 <h2 align="center"> Tools </h2>
 <div align="center">
