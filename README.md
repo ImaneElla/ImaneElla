@@ -38,19 +38,26 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h4>1️⃣ <a href="https://github.com/ImaneElla/inventory-system">inventory-system</a></h4>
+    <td width="33%" valign="top">
+      <h4> <a href="https://github.com/ImaneElla/inventory-system">Inventory-system</a></h4>
       <p>A full-stack Inventory Management System built to streamline stock tracking, sales, and reporting with a clean, modern interface and an integrated on-premise AI assistant.</p>
       <img src="https://skillicons.dev/icons?i=java,spring,nextjs,postgresql" />
       <br/>
       <img src="https://img.shields.io/badge/-View%20Repo-1D4ED8?style=flat-square&logo=github&logoColor=white"/>
     </td>
-    <td width="50%" valign="top">
-      <h4>2️⃣ <a href="https://github.com/ImaneElla/ImanePortfolio">ImanePortfolio</a></h4>
+    <td width="33%" valign="top">
+      <h4> <a href="https://imane-ellaouzi.vercel.app">ImanePortfolio</a></h4>
       <p>A personal portfolio site showcasing projects, an admin panel, and CRUD features — built with a luxury, editorial-inspired design system.</p>
       <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,vercel" />
       <br/>
-      <img src="https://img.shields.io/badge/-View%20Repo-3B82F6?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/-View%20Portfolio-3B82F6?style=flat-square&logo=github&logoColor=white"/>
+    </td>
+        <td width="33%" valign="top">
+      <h4> <a href="https://github.com/ImaneElla/PRM">Premium HR Management</a></h4>
+      <p>A web application designed to manage employee trial periods, track evaluations, monitor HR performance, and support decision-making through AI-powered analysis.</p>
+      <img src="https://skillicons.dev/icons?i=java,spring,nextjs,postgresql" />
+      <br/>
+      <img src="https://img.shields.io/badge/-View%20Repo-1D4ED8?style=flat-square&logo=github&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -61,9 +68,12 @@
 
 <div align="center">
 <br>
-  <img src="https://skillicons.dev/icons?i=java,spring,nextjs,react,ts,tailwind,nodejs" /><br>
-  <img src="https://skillicons.dev/icons?i=git,firebase,vercel,docker,postman,bun,linux" /><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,vscode,mysql,ai,figma,github,aws" /><br>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,kotlin,idea" /><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq,graphql" /><br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,nginx,terraform,grafana" /><br>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,git,github,postman" /><br>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css" /><br>
+<img src="https://skillicons.dev/icons?i=tailwind,nodejs,php,laravel,vscode,figma,vercel" />
 <br>
 </div>
 
