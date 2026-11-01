@@ -103,21 +103,6 @@
 </table>-->
 
 
-<h2 align="center"> Tools </h2>
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Git-3B82F6?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-1D4ED8?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-3B82F6?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-1D4ED8?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-3B82F6?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-1D4ED8?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-3B82F6?style=for-the-badge&logo=linux&logoColor=white"/>
-
-</div>
-
----
-
 <div align="center">
 
 ✨ *Always learning. Always building. Always improving* ✨
