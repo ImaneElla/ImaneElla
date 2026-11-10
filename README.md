@@ -1,8 +1,7 @@
 <div align="center">
-
 <h1 align="center"> Imane EL Laouzi</h1>
-  <p align="center"><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=PT+Serif&weight=700&size=32&duration=2800&pause=700&center=true&vCenter=true&width=650&color=2563EB&background=FFF0F500&lines=Software+Engineer+Student;Java+Backend+Developer;UI%2FUX+Enthusiast;" alt="Typing SVG"/>
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=PT+Serif&weight=700&size=32&duration=2800&pause=700&center=true&vCenter=true&width=650&color=2563EB&background=FFF0F500&lines=Full+Stack+Developer;Java+Backend+Developer;UI%2FUX+Enthusiast;" alt="Typing SVG"/>
   </p>
 
   <p align="center">
@@ -78,30 +77,6 @@
 </div>
 
 ---
-
-<!--<div align="center">
-
-## Technical Proficiency
-
-
-<table>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=java" width="22"/>&nbsp;&nbsp;Java / Spring Boot</td>
-    <td><img src="https://skillicons.dev/icons?i=react" width="22"/>&nbsp;&nbsp;React / Next.js</td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs" width="22"/>&nbsp;&nbsp;Node.js / Express</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=postgresql" width="22"/>&nbsp;&nbsp;PostgreSQL</td>
-    <td><img src="https://skillicons.dev/icons?i=figma" width="22"/>&nbsp;&nbsp;Figma</td>
-    <td><img src="https://skillicons.dev/icons?i=postman" width="22"/>&nbsp;&nbsp;REST APIs</td>
-  </tr>
-  <tr>
-    <td><img src="https://skillicons.dev/icons?i=mongodb" width="22"/>&nbsp;&nbsp;MongoDB</td>
-    <td><img src="https://skillicons.dev/icons?i=docker" width="22"/>&nbsp;&nbsp;DevOps</td>
-    <td><img src="https://skillicons.dev/icons?i=ts" width="22"/>&nbsp;&nbsp;TypeScript</td>
-  </tr>
-</table>-->
-
 
 <div align="center">
 
